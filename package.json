@@ -1,6 +1,6 @@
 {
   "name": "help-stackoverflow",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Searches Stack Overflow when uncaught exception is detected.",
   "main": "index.js",
   "scripts": {

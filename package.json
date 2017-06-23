@@ -1,7 +1,7 @@
 {
   "name": "help-stackoverflow",
   "version": "1.0.1",
-  "description": "Searches StackOverflow when uncaught exception is detected.",
+  "description": "Searches Stack Overflow when uncaught exception is detected.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/seungjaeryanlee/help-stackoverflow.git"
   },
-  "author": "Seung Jae (Ryan)",
+  "author": "Seung Jae (Ryan) Lee",
+  "keywords": [
+    "stackoverflow",
+    "stack-overflow",
+    "help",
+    "humor"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/seungjaeryanlee/help-stackoverflow/issues"
